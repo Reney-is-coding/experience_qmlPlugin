@@ -1,0 +1,2 @@
+module DarkTheme
+singleton DarkTheme 1.0 DarkTheme.qml

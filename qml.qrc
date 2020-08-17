@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imports/DarkTheme/DarkTheme.qml</file>
+        <file>imports/DarkTheme/qmldir</file>
+        <file>imports/Theme/qmldir</file>
+        <file>imports/Theme/Theme.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/ThemeButton.qml</file>
+        <file>qml/ThemeSlider.qml</file>
+    </qresource>
+</RCC>
